@@ -1,0 +1,5 @@
+/flow/Hospital_Privilege_Application_List_Button_To_create_Content_Notes?CredentialEntityId={!Credentialing_Entity__c.Id}&retURL={!Credentialing_Entity__c.Id}
+
+OR
+
+/flow/Hospital_Privilege_Application_List_Button_To_create_Content_Notes?&retURL='paste the url to where you want to redirect with commas '
